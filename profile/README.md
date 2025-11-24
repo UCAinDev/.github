@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="Logo%20Color%20UCAinDev%20Redondo%20(1).png" alt="Banner UCAinDev" width="20%" />
+  <img src="Logo%20Color%20UCAinDev%20Largo%20(1).png" alt="Banner UCAinDev" width="50%" />
 
   
   ### Asociación de Desarrollo de Videojuegos de la Universidad de Cádiz
