@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://via.placeholder.com/1000x300?text=Banner+UCAinDev" alt="Banner UCAinDev" width="100%" />
+  <img src="Logo%20Color%20UCAinDev%20Redondo%20(1).png" alt="Banner UCAinDev" width="20%" />
 
-  # 👾 UCAinDev
+  
   ### Asociación de Desarrollo de Videojuegos de la Universidad de Cádiz
 
   <p>
@@ -15,7 +15,7 @@
       <img src="https://img.shields.io/badge/Twitter-Síguenos-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
     <a href="https://es.linkedin.com/company/ucaindev">
-      <img src="https://img.shields.io/badge/LogMeIn-Siguenos_en_Linkedin-FA5C5C?style=for-the-badge&logo=LogMeIn&logoColor=white" alt="LogMeIn"/>
+      <img src="https://img.shields.io/badge/Linkedin-Siguenos_en_Linkedin-FA5C5C?style=for-the-badge&logo=LogMeIn&logoColor=white" alt="LogMeIn"/>
     </a>
     <a href="https://www.instagram.com/ucaindev">
       <img src="https://img.shields.io/badge/Instagram-Fotos-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
